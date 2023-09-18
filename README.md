@@ -10,6 +10,7 @@ The purpose of our project is to develop a robust Sentiment Analysis system tail
 
 ## Technology used:
 - Python3
+- Jupyter Notebook
 - Multinomial Naive Bayes
 
 
